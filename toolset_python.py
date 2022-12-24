@@ -15,14 +15,14 @@ for i in range(4):
             button = tk.Button(text="Code Combiner")
             # Definiere die Aktion, die ausgeführt wird, wenn der Button geklickt wird
             def on_button_clicked():
-                subprocess.run(["python", "code_combiner.py"])
+                subprocess.Popen(["python", "code_combiner.py"])
             button.config(command=on_button_clicked)
         elif i == 0 and j == 1:
             # Erstelle einen Button mit der Beschriftung "Password Generator"
             button = tk.Button(text="Password Generator")
             # Definiere die Aktion, die ausgeführt wird, wenn der Button geklickt wird
             def on_button_clicked():
-                subprocess.run(["python", "password_generator.py"])
+                subprocess.Popen(["python", "password_generator.py"])
             button.config(command=on_button_clicked)
         else:
             # Erstelle einen Button mit der Nummer (i * 5 + j + 2) als Beschriftung
