@@ -8,7 +8,7 @@ This project is currently in development and is not ready for use. Planned chang
 
 ## Requirements
 
-To use PythonDevToolbox, you will need a development environment with Python installed. The specific version of Python required will be announced at a later date. You will also need to install the tkinter library, which is used for the GUI.
+To use PythonDevToolbox, you will need a development environment with Python3 installed. You will also need to install the tkinter library, which is used for the GUI.
 
 To install tkinter on Ubuntu:
 
