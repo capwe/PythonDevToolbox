@@ -29,7 +29,7 @@ To install tkinter on Windows:
 
 To install PythonDevToolbox, clone the repository to your local machine using Git:
 
-`git clone https://github.com/your-username/PythonDevToolbox.git`
+`git clone https://github.com/capwe/PythonDevToolbox.git`
 
 
 To start PythonDevToolbox, navigate to the directory where you cloned the repository and run the main Python script:
