@@ -1,8 +1,4 @@
 # PythonDevToolbox
-Python Development Toolbox
-
-
-# PythonDevToolbox
 
 PythonDevToolbox is a collection of small Python applications that can be accessed via a GUI window. This project was created using ChatGPT and is currently not intended for productive use. As a result, the code may contain errors and should be carefully reviewed before use.
 
