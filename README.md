@@ -6,6 +6,17 @@ PythonDevToolbox is a collection of small Python applications that can be access
 
 This project is currently in development and is not ready for use. Planned changes and future development direction will be announced at a later date.
 
+
+## Table of Contents
+
+| Tool          | Description                             | File          |
+|---------------|-----------------------------------------|---------------|
+| Toolset Python | This is the entry point of the program. | toolset_python.py |
+| Code Combiner | The Code Combiner combines multiple text values together.             | code_combiner.py |
+
+
+
+
 ## Requirements
 
 To use PythonDevToolbox, you will need a development environment with Python3 installed. You will also need to install the tkinter library, which is used for the GUI.
@@ -34,7 +45,7 @@ To install PythonDevToolbox, clone the repository to your local machine using Gi
 
 To start PythonDevToolbox, navigate to the directory where you cloned the repository and run the main Python script:
 
-`python3 toolset_python.py`
+`python toolset_python.py`
 
 
 If you have any problems with the installation or use of PythonDevToolbox, please open an issue on GitHub.
