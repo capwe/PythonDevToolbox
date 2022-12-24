@@ -60,7 +60,7 @@ PythonDevToolbox uses the following technologies:
 
 ## Desired Collaboration
 
-If you are interested in contributing to the development of PythonDevToolbox, please contact the project maintainer for more information.
+If you are interested in contributing to the development of PythonDevToolbox, please feel free to open a pull request. It is best to submit code changes in a single file and it would be helpful to include the Chat GPT conversation history. Don't forget to update the list in the README file as well.
 
 ## Known Bugs and Issues
 
