@@ -3,7 +3,7 @@ import subprocess
 
 # Erstelle das Hauptfenster
 window = tk.Tk()
-window.title("Toolset Launcher")
+window.title("Python Dev Toolbox")
 
 # Erstelle ein 4x5-Raster für die Buttons
 buttons = []
