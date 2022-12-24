@@ -34,7 +34,7 @@ To install PythonDevToolbox, clone the repository to your local machine using Gi
 
 To start PythonDevToolbox, navigate to the directory where you cloned the repository and run the main Python script:
 
-`python toolset_python.py`
+`python3 toolset_python.py`
 
 
 If you have any problems with the installation or use of PythonDevToolbox, please open an issue on GitHub.
@@ -56,8 +56,13 @@ There are currently no known bugs or issues with PythonDevToolbox. If you encoun
 
 ## FAQ
 
-Q: Is PythonDevToolbox intended for productive use?
+---
+
+Q: Is PythonDevToolbox intended for productive use? 
+
 A: No, PythonDevToolbox is currently not intended for productive use. The code may contain errors and should be carefully reviewed before use.
+
+---
 
 ## Copyright and License
 
